@@ -1,6 +1,6 @@
 # Translate IP for Storefront
 
-## intro
+## Intro
 storefront 默认是没有类似 Webinterface 的 secure access 中配置 translate 方法来做地质转换的功能。所以，我就写TranslateIP 来给 SF 增加一个类似的功能。
 
 ---
